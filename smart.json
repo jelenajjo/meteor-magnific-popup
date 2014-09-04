@@ -1,7 +1,7 @@
 {
   "name": "meteor-magnific-popup",
   "description": "Light and responsive lightbox script with focus on performance.",
-  "homepage": "",
+  "homepage": "https://github.com/eahefnawy/meteor-toastr",
   "author": "Jelena Jovanovic",
   "version": "0.1.0",
   "git": "https://github.com/jelenajjo/meteor-magnific-popup.git",
