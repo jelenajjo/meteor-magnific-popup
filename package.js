@@ -5,7 +5,7 @@ Package.describe({
 Package.on_use(function (api) {
     api.use("jquery", "client");
     
-    api.add_files("magnific-popup.css", "client");
-    api.add_files("jquery.magnific-popup.js", "client");
+    api.addFiles("magnific-popup.css", "client");
+    api.addFiles("jquery.magnific-popup.js", "client");
 
 });
